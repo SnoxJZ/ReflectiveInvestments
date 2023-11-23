@@ -1,0 +1,1958 @@
+      .swiper-pagination-bullet {
+          margin-left: 5px;
+      }
+
+      input[type="number"]::-webkit-outer-spin-button,
+      input[type="number"]::-webkit-inner-spin-button {
+          -webkit-appearance: none;
+          margin: 0;
+      }
+
+      input[type="number"] {
+          -moz-appearance: textfield;
+      }
+
+      input[type="number"]:hover,
+      input[type="number"]:focus {
+          -moz-appearance: number-input;
+      }
+
+      input[type=number]::-webkit-inner-spin-button,
+      input[type=number]::-webkit-outer-spin-button {
+          -webkit-appearance: none;
+          margin: 0;
+      }
+
+      .navbar-nav .nav-link:hover {
+          color: #dd2a1b;
+      }
+
+      .navbar-light .navbar-nav .nav-link {
+          color: #ffffff;
+      }
+
+      .navbar .site-menu ul li a:hover {
+          color: #ffffff;
+      }
+
+      .slider .main-slider .swiper-slide .container a {
+          background: #dd2a1b;
+      }
+
+      .slider .main-slider .swiper-slide .container a:hover {
+          background: #dd2a1b;
+      }
+
+      .navbar .navbar-button a {
+          background: #dd2a1b;
+      }
+
+      .slider .button-next:hover {
+          background: #D9B08C;
+      }
+
+      .custom-button {
+          background: none;
+          border: 2px solid #FFCB9A;
+
+      }
+
+      .custom-button:hover {
+          background: #116466;
+          color: #ffffff;
+      }
+
+      .custom-buttonk {
+          background: none;
+          border: 2px solid #D9B08C;
+          color: #2C3531;
+      }
+
+      .custom-buttonk:hover {
+          background: #116466;
+          color: #ffffff;
+      }
+
+      .custom-button12 {
+          background: rgb(151 121 94);
+          border: 0;
+          transition: all 0.5s;
+      }
+
+      .custom-button12:hover {
+          background: #b99678;
+          transition: all 0.5s;
+      }
+
+      .preloader {
+          background: #116466;
+      }
+
+      .preloader figure {
+          border: 2px solid #D1E8E2;
+      }
+
+      .preloader figure:after {
+          border-top: 1px solid #fff;
+          border-top: 1px solid rgba(255, 255, 255, 0.829);
+      }
+
+      .menueffect a:hover {
+          color: #000000;
+      }
+
+      .menueffect a:before {
+          background-color: #fff;
+      }
+
+      .counter-box h6:after {
+          color: #ffffff;
+      }
+
+      li a:hover {
+          color: #ffffff;
+      }
+
+      input#wp-block-search__input-1 {
+          border-bottom: 0.3rem solid #dd2a1b;
+      }
+
+      input#wp-block-search__input-2 {
+          border-bottom: 0.3rem solid #dd2a1b;
+      }
+
+      input#wp-block-search__input {
+          border-bottom: 0.3rem solid #dd2a1b;
+      }
+
+      .slider .button-prev:hover {
+          background: #dd2a1b;
+          border-color: transparent;
+      }
+
+      .content-section {
+          background: #D1E8E2 !important;
+      }
+
+      .content-section.bottom-dark-spacing:after {
+          background: #dd2a1b;
+      }
+
+      .section-title h2 {
+          color: #dd2a1b;
+      }
+
+      .image-box .time {
+          color: #dd2a1b;
+      }
+
+      .bg-light {
+          background: #116466;
+      }
+
+      .hamburger-menu span {
+          background: #2C3531;
+      }
+
+      .side-content form button[type="submit"] {
+          color: #dd2a1b;
+      }
+
+      .side-image .side-timetable li b {
+          color: #dd2a1b;
+      }
+
+      .side-member figcaption {
+          background: #dd2a1b;
+      }
+
+      .custom-progress span {
+          color: #dd2a1b;
+      }
+
+      .custom-progress .progress-bar .progress {
+          background: #dd2a1b;
+      }
+
+      .tab-wrapper .tab-nav li.active a {
+          background: #dd2a1b;
+      }
+
+      .tab-wrapper .tab-nav li.active a:hover {
+          background: #000000;
+      }
+
+      .tab-wrapper .tab-item .tab-inner {
+          background: #dd2a1b;
+      }
+
+      .tab-wrapper .tab-item .tab-inner ul li span {
+          color: #dd2a1b;
+      }
+
+      .service-box {
+          background: #dd2a1b;
+      }
+
+      .service-box:before {
+          background: #dd2a1b;
+      }
+
+      .image-overlap-box figure {
+          background: #dd2a1b;
+      }
+
+      .image-overlap-box .content a:hover {
+          color: #000000;
+      }
+
+      .video {
+          background: #dd2a1b;
+      }
+
+      .video a {
+          color: #dd2a1b;
+      }
+
+      .class-box figure {
+          background: none;
+      }
+
+      .side-widget {
+          background: #116466;
+      }
+
+      .dropdown-menu {
+          background: #000000;
+          color: #ffffff;
+      }
+
+      .navbar .site-menu ul li a {
+          color: #ffffff;
+      }
+
+      .border-right {
+          border-right: 2px solid #D9B08C !important;
+      }
+
+      .border-bottom {
+          border-bottom: 2px solid #D9B08C !important;
+      }
+
+      .border-left {
+          border-left: 2px solid #D9B08C !important;
+      }
+
+      .border-top {
+          border-top: 2px solid #D9B08C !important;
+      }
+
+      .paketler3__pr-kutu {
+          color: #dd2a1b;
+      }
+
+      .text-box h5 {
+          color: #dd2a1b;
+      }
+
+      .recent-news figure {
+          background: #dd2a1b;
+      }
+
+      .recent-news .content h3 a {
+          color: #dd2a1b;
+      }
+
+      .recent-news .content small span {
+          background: #dd2a1b;
+      }
+
+      .blog-box figure {
+          background: #dd2a1b;
+      }
+
+      .blog-box .content h3 a {
+          color: #dd2a1b;
+      }
+
+      .blog-box .content blockquote {
+          color: #dd2a1b;
+      }
+
+      .sidebar .widget .widget-title {
+          color: #dd2a1b;
+      }
+
+      .sidebar .widget .widget-title:before {
+          background: #dd2a1b;
+      }
+
+      .sidebar .widget form input[type="submit"] {
+          background: #dd2a1b;
+      }
+
+      .sidebar .widget .categories li a {
+          color: #dd2a1b;
+      }
+
+      .widget {
+          background: none;
+          border: 2px solid #dd2a1b;
+      }
+
+      .branch-box h6 {
+          color: #dd2a1b;
+      }
+
+      .branch-box a {
+          color: #dd2a1b;
+      }
+
+      .member-box figcaption {
+        background: rgb(151 121 94);
+      }
+
+      .icon {
+          background: none;
+          color: #2C3531;
+      }
+
+      .iconsv {
+          background: none;
+          border: 2px solid;
+          color: #116466;
+      }
+
+      .iconk {
+          color: #f5f5f5;
+      }
+
+      .iconk:hover {
+          color: #000000;
+      }
+
+      .iconw {
+          color: #D1E8E2;
+          font-size: 75px;
+          margin-bottom: -2px;
+      }
+
+      .iconw:hover {
+          color: #FFCB9A;
+          font-size: 75px;
+          margin-bottom: -2px;
+      }
+
+      .sidebar-service {
+          background: none;
+      }
+
+      span.menu-service:hover {
+          color: #D9B08C;
+      }
+
+
+      span.menu-service.menuactive {
+          background: #D1E8E2;
+          border: 2px solid;
+      }
+
+      .callbackform {
+          background: none;
+          border: 2px solid #116466;
+      }
+
+      .iconleft {
+          color: #116466;
+      }
+
+      .iconleft:hover {
+          color: #D9B08C;
+      }
+
+      a.menucolor {
+          color: #dd2a1b;
+      }
+
+      a.menucolor:hover {
+          color: #000000;
+      }
+
+      .pagination .page-item .page-link {
+          color: #dd2a1b;
+      }
+
+      .footer {
+        border-top: solid #D9B08C;
+        box-shadow: 0 1.5rem 4rem #D9B08C;
+          /* background: #D1E8E2;
+          box-shadow: 0 1.5rem 4rem #116466; */
+      }
+
+      .footer .footer-info a {
+          color: #dd2a1b;
+      }
+
+      .footer .copyright {
+          background: #dd2a1b0a;
+          color: #ffffff;
+      }
+
+      .footer-info p {
+          color: #fff;
+      }
+
+      .footer .footer-social li a {
+          border: 1px solid #D9B08C ;
+          color: #2C3531;
+      }
+
+      .footer .footer-social li a:hover {
+          background: none;
+          border: 1px solid #FFCB9A;
+      }
+
+      .iconk {
+          color: #dd2a1b;
+      }
+
+      .iconk:hover {
+          color: #000000;
+      }
+
+      .iconleft {
+          color: #116466;
+      }
+
+      .iconk {
+          color: #dd2a1b;
+      }
+
+      .iconk:hover {
+          color: #000000;
+      }
+
+      .iconleft {
+          color: #116466;
+      }
+
+      span.menu-service {
+          background: none;
+          color: #FFCB9A;
+          width: 100%;
+          border: 2px solid;
+      }
+
+      textarea#comment {
+          border-bottom: 0.3rem solid #dd2a1b;
+      }
+
+      input#author {
+          border-bottom: 0.3rem solid #dd2a1b;
+      }
+
+      input#email {
+          border-bottom: 0.3rem solid #dd2a1b;
+      }
+
+      input#url {
+          border-bottom: 0.3rem solid #dd2a1b;
+      }
+
+      .paketler2__on--arkayazi-1 {
+          background: none;
+      }
+
+      .form__input {
+          border-bottom: 0.3rem solid #D9B08C;
+          background: rgba(255, 255, 255, 11%);
+          color: #D1E8E2;
+      }
+
+      .form__input:focus {
+          border-bottom: 0.3rem solid #dd2a1b;
+      }
+
+      .form__input:focus:invalid {
+          border-bottom: 0.3rem solid #dd2a1b;
+      }
+
+      .form__radio-buton {
+          border: 0.5rem solid #dd2a1b;
+      }
+
+      .form__radio-buton::after {
+          background-color: #dd2a1b;
+      }
+
+      .form-popup__input {
+          border-bottom: 0.3rem solid #FFCB9A;
+      }
+
+      .form-popup__input:focus {
+          border-bottom: 0.3rem solid #D9B08C;
+      }
+
+      .form-popup__input:focus:invalid {
+          border-bottom: 0.3rem solid #dd2a1b;
+      }
+
+      .hizmetler-kutu--icon {
+          background-image: linear-gradient(to right, #dd2a1b, #000000);
+      }
+
+      .ozellik-kutu--icon {
+          background-image: linear-gradient(to right, #dd2a1b, #000000);
+      }
+
+      .post-kutu--icon {
+          background-image: linear-gradient(to right, #dd2a1b, #000000);
+      }
+
+      .yorum-kutu--icon {
+          background-image: linear-gradient(to right, #dd2a1b, #000000);
+      }
+
+      .ozellik-kutu-iletisim--icon {
+          background-image: linear-gradient(to right, #dd2a1b, #000000);
+      }
+
+      .baslik-4--icon {
+          background-image: linear-gradient(to right, #dd2a1b, #000000);
+      }
+
+      .yukaricik {
+          background-image: linear-gradient(to right bottom, #dd2a1b, #000000);
+      }
+
+      .footer-404 {
+          background-image: linear-gradient(to right bottom, #dd2a1b, #000000);
+      }
+
+      .paketler-alani {
+          background-color: #dd2a1b;
+      }
+
+      .form-alani {
+          background-image: linear-gradient(to right bottom, #dd2a1b, #000000);
+      }
+
+      .markalar {
+          background: #ffffff;
+      }
+
+      .h2-baslik-hizmetler {
+          color: #dd2a1b;
+      }
+
+      .h2-baslik-hizmetler__paragraf {
+          color: #dd2a1b;
+      }
+
+      .h2-baslik-hizmetler-2 {
+          color: #D9B08C;
+      }
+
+      .side-widget small {
+          color: #2C3531;
+      }
+
+      .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
+          background: #D9B08C;
+      }
+
+      ::-webkit-scrollbar-thumb {
+          background: #D9B08C;
+      }
+
+      .custom-buttonw1 {
+          border-bottom: 0.3rem solid #FFCB9A;
+      }
+
+      .iconsocia {
+          color: #D9B08C;
+      }
+
+      .iconsocia:hover {
+          color: #FFCB9A;
+      }
+
+      .paketler3__gorsel--1 {
+          background-image: linear-gradient(to right bottom, #D9B08C, #000000)
+      }
+
+      .paketler3__on--arkayazi-1 {
+          background: #ffffff;
+      }
+
+      .paketler2__gorsel--1 {
+          background: none;
+      }
+
+      p.countb {
+          background: #dd2a1b;
+      }
+
+      .icontops {
+          background: #116466;
+      }
+
+      input#submit {
+          background: #dd2a1b;
+      }
+
+      .custom-buttonw:hover {
+          background: #dd2a1b;
+      }
+
+      .comment-meta.commentmetadata a:hover {
+          color: #000000;
+      }
+
+      a.comment-edit-link:hover {
+          color: #000000;
+      }
+
+      p.logged-in-as a:hover {
+          color: #000000;
+      }
+
+      .a:hover {
+          color: #000000;
+      }
+
+      li a {
+          color: #D9B08C;
+      }
+
+      .datesectionSpan {
+          color: #2C3531;
+      }
+
+      .tag-cloud-link {
+          color: #dd2a1b;
+      }
+
+      .tagcloud a:hover {
+          color: #000000;
+      }
+
+      li#recent-posts-5 a:hover {
+          color: #000000;
+      }
+
+      input#s {
+          border-bottom: 0.3rem solid #000000;
+          background: #ffffff;
+      }
+
+      h2.widgettitle {
+          background: none;
+          border: none;
+      }
+
+      .tagcloud {
+          background: none;
+          border: none;
+      }
+
+      textarea#comment {
+          background: #ffffff;
+      }
+
+      input#author {
+          background: #ffffff;
+      }
+
+      input#email {
+          background: #ffffff;
+      }
+
+      input#url {
+          background: #ffffff;
+      }
+
+      .telh {
+          background: none;
+          border: 2px solid #D9B08C;
+          color: #000;
+      }
+
+      .iconsociai {
+          color: #D9B08C;
+      }
+
+      .iconsociai:hover {
+          color: #FFCB9A;
+      }
+
+      ::selection {
+          background-color: #FFCB9A;
+      }
+
+      ::-webkit-scrollbar-thumb {
+          background-color: #000000;
+      }
+
+      .ozellik-kutu-yorumlar--icon {
+          background-image: linear-gradient(to right, #dd2a1b, #000000);
+      }
+
+      .services-kutu1--icon {
+          background-image: linear-gradient(to right, #dd2a1b, #000000);
+      }
+
+      .services-kutu2--icon {
+          background-image: linear-gradient(to right, #dd2a1b, #000000);
+      }
+
+      .services-kutu3--icon {
+          background-image: linear-gradient(to right, #dd2a1b, #000000);
+      }
+
+      b.fn a:hover {
+          color: #000000;
+      }
+
+      li a:hover {
+          color: #ffffff;
+      }
+
+      .wp-block-latest-posts__list a:hover {
+          color: #dd2a1b;
+      }
+
+      .wp-post-image {
+          height: 100%;
+      }
+
+      .paketler__on--arkayazi-1 {
+          background: #ffffff;
+      }
+
+      .paketler3__icerik {
+          padding: 0rem;
+      }
+
+      .services-kutu2--yazi1 {
+          width: 100%;
+      }
+
+      .iconsociaf {
+          color: #fff;
+      }
+
+      .iconsociaf:hover {
+          color: #FFCB9A;
+      }
+
+      a.serviceart {
+          color: #2C3531;
+      }
+
+      .wpcf7-response-output {
+          border-color: #040404;
+          background: white;
+          color: #000000;
+      }
+
+      .box span:before {
+          background: #fff;
+      }
+
+      .box {
+          background: transparent;
+          /* border: 2px solid #D1E8E2; */
+          color: #ffffff;
+      }
+
+      .col-lg-3.usttablo {
+          z-index: 2;
+      }
+
+      .col-lg.usttablo {
+          z-index: 2;
+      }
+
+      .information {
+          background: #D1E8E2;
+      }
+
+      .hakkimizda-bolumu-anasayfa {
+          /* background: #D1E8E2; */
+      }
+
+      .services-it {
+          background: #D1E8E2;
+      }
+
+      .box2 span:before {
+          background: #116466;
+      }
+
+      .box2 {
+          background: #D1E8E2;
+          border: 2px solid #D1E8E2;
+          color: #ffffff;
+      }
+
+      .markalar {
+          background: #D1E8E2;
+      }
+
+      .marka {
+          border: 2px solid #116466;
+          background-color: #116466;
+      }
+
+      .team-section {
+          /* background: #D1E8E2; */
+      }
+
+      .hizmetlerr-bolumu {
+          background: #D1E8E2;
+      }
+
+      .yorumlar-alani-sayfa {
+          background: #D1E8E2;
+      }
+
+      .special-paket-alani {
+          background: #D1E8E2;
+      }
+
+      .paketler3__icerik ul li:not(:last-child) {
+          color: #000000;
+      }
+
+      .paketler3__icerik ul li {
+          color: #000000;
+      }
+
+      .news-alani-sayfa {
+          background: #D1E8E2;
+      }
+
+      .post-kutu {
+          background: none;
+          border: 2px solid #116466;
+      }
+
+      .iletisim-form-alani {
+          /* background: #D1E8E2; */
+      }
+
+      .iletisim-icon-alani {
+          background: #D1E8E2;
+      }
+
+      .herotext {
+          width: 100%;
+          display: block;
+          font-size: 60px;
+          margin-bottom: 10px;
+          font-weight: 600;
+          color: #ffffff;
+          margin-top: -11rem;
+          margin-top: -995px;
+          margin-left: -1rem;
+          text-align: right;
+          height: 100vh;
+          display: grid;
+          grid-template: repeat(15, 1fr) / repeat(15, 1fr);
+          overflow: hidden;
+      }
+
+      /* text primary */
+      .person {
+          color: #dd2a1b;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      .ozellik-kutu-iletisim--yazi {
+          color: #D9B08C;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      .footer-info p {
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      p {
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+          color: #D1E8E2;
+      }
+
+      .h2-baslik-hizmetler-21__paragraf {
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      .paketler3__icerik ul li {
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      body {
+          background: #D1E8E2;
+          color: #ffffff;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      .paragraf {
+          color: #ffffff;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      .paragraf-info {
+          color: #2C3531;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      span.date {
+          color: #ffffff;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+      }
+
+      span.category {
+          color: #ffffff;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+      }
+
+      span.tt {
+          color: #2C3531;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      .paragraf-info a {
+          color: #ffffff;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      .paragraf-sol-beyaz a {
+          color: #ffffff;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      .paragraf-sol-beyaz-orta a {
+          color: #ffffff;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      .paragraf-ahp a {
+          color: #ffffff;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      .paragraf-pdetay a {
+          color: #ffffff;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      .paragraf-404 a {
+          color: #ffffff;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      .h2-baslik-hizmetler-yorum__yorum {
+          color: #ffffff;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      .testimon-text {
+          color: #000000;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      .post-kutu p {
+          color: #2C3531;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      .services-kutu2--yazi1 {
+          color: #2C3531;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      .h2-baslik-hizmetler-2__paragraf {
+          color: #ffffff;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      .paragraf-popup {
+          color: #2C3531;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+          font-weight: 400;
+      }
+
+      ul.post-categories {
+          color: #D9B08C;
+          font-family: Satoshi Regular;
+          font-size: 16px;
+      }
+
+      .services-kutu2--yazi {
+          font-family: Satoshi Regular;
+          font-size: 16px;
+      }
+
+      /* headings */
+      .h2-baslik-anasayfa {
+          color: #dd2a1b;
+          border-bottom: .1rem solid #dd2a1b;
+          font-family: Satoshi Regular;
+          font-size: 30px;
+          font-weight: 700;
+      }
+
+      .h2-baslik-anasayfa-ozel {
+          color: #D9B08C;
+          font-family: Satoshi Regular;
+          font-size: 30px;
+          font-weight: 700;
+      }
+
+      .h2-baslik-anasayfa-blog {
+          color: #dd2a1b;
+          font-family: Satoshi Regular;
+          font-size: 30px;
+          font-weight: 700;
+      }
+
+      .h2-baslik-ahb {
+          color: #dd2a1b;
+          font-family: Satoshi Regular;
+          font-size: 30px;
+          font-weight: 700;
+      }
+
+      .h2-baslik-bottom {
+          color: #dd2a1b;
+          font-family: Satoshi Regular;
+          font-size: 30px;
+          font-weight: 700;
+      }
+
+      .h2-baslik-404 {
+          color: #dd2a1b;
+          font-family: Satoshi Regular;
+          font-size: 30px;
+          font-weight: 700;
+      }
+
+      .h2-baslik-footer {
+          color: #dd2a1b;
+          font-family: Satoshi Regular;
+          font-size: 30px;
+          font-weight: 700;
+      }
+
+      .h2-baslik-iletisim-ozel {
+          color: #dd2a1b;
+          font-family: Satoshi Regular;
+          font-size: 30px;
+          font-weight: 700;
+      }
+
+      .h2-baslik-popup {
+          color: #D9B08C;
+          font-family: Satoshi Regular;
+          font-size: 30px;
+          font-weight: 700;
+      }
+
+      .baslik-3-h {
+          color: #dd2a1b;
+          font-family: Satoshi Regular;
+          font-size: 30px;
+          font-weight: 700;
+      }
+
+      .baslik-33 {
+          color: #dd2a1b;
+          font-family: Satoshi Regular;
+          font-size: 30px;
+          font-weight: 700;
+      }
+
+      .baslik-star {
+          color: #dd2a1b;
+          font-family: Satoshi Regular;
+          font-size: 30px;
+          font-weight: 700;
+      }
+
+      .h2-baslik-hizmetler-yorum {
+          color: #dd2a1b;
+          font-family: Satoshi Regular;
+          font-size: 30px;
+          font-weight: 700;
+      }
+
+      .baslik-3s {
+          color: #D9B08C;
+          font-family: Satoshi Regular;
+      }
+
+      .baslik-3white {
+          font-family: Satoshi Regular;
+      }
+
+      .counter-box .odometer {
+          color: #D9B08C;
+          font-family: Satoshi Regular;
+      }
+
+      .baslik-orta {
+          font-size: 23px;
+          color: #dd2a1b;
+          font-family: Satoshi Regular;
+          font-weight: 700;
+      }
+
+      .baslik-4 {
+          color: #D9B08C;
+          font-family: Satoshi Regular;
+          font-weight: 700;
+      }
+
+      .counter-box h6 {
+          color: #D9B08C;
+          font-family: Satoshi Regular;
+      }
+
+      .slider .main-slider .swiper-slide .container h1 {
+          color: #2C3531;
+          font-family: Satoshi Regular;
+      }
+
+      .slider .main-slider .swiper-slide .container p {
+          color: #D9B08C;
+          font-family: Satoshi Regular;
+          font-size: 24px;
+      }
+
+      .slider .main-slider .swiper-slide .container a {
+          font-family: Satoshi Regular;
+      }
+
+      .custom-button {
+          font-family: Satoshi Regular;
+      }
+
+      .custom-buttonw {
+          font-family: Satoshi Regular;
+      }
+
+      .baslik-sol {
+          font-family: Satoshi Regular;
+      }
+
+      .member-box figcaption h6 {
+          font-family: Satoshi Regular;
+      }
+
+      .member-box figcaption p {
+          font-family: Satoshi Regular;
+      }
+
+      .h2-baslik-hizmetler-2 {
+          font-family: Satoshi Regular;
+          font-size: 30px;
+          font-weight: 700;
+          padding-bottom: 20px;
+      }
+
+      .h2-baslik-hizmetler-21 {
+          font-family: Satoshi Regular;
+          font-size: 30px;
+          font-weight: 700;
+      }
+
+      .h2-baslik-hizmetler-2111 {
+          font-family: Satoshi Regular;
+          font-size: 30px;
+          font-weight: 700;
+      }
+
+      .baslik-3-service {
+          font-family: Satoshi Regular;
+      }
+
+      .paketler3__pr-yazi {
+          font-family: Satoshi Regular;
+      }
+
+      .paketler3__pr-degeri {
+          font-family: Satoshi Regular;
+          font-size: 30px;
+          font-weight: 700;
+      }
+
+      .baslik-3 {
+          font-size: 21px;
+          color: #D9B08C;
+          font-family: Satoshi Regular;
+      }
+
+      .footer .widget-title {
+          font-family: Satoshi Regular;
+          color: #D9B08C;
+      }
+
+      .page-header .container h2 {
+          font-family: Satoshi Regular;
+          color: #D9B08C;
+          text-align: center;
+      }
+
+      .page-header .container p {
+          color: #D1E8E2;
+      }
+
+      a.headerbreadcrumb {
+          color: #D1E8E2;
+      }
+
+      .dropdown-toggle::after {
+          display: none;
+      }
+
+      .css {
+          font-family: Satoshi Regular;
+      }
+
+      .css:nth-child(1) {
+          font-family: Satoshi Regular;
+      }
+
+      .css:nth-child(2) {
+          font-family: Satoshi Regular;
+      }
+
+      .css:nth-child(3) {
+          font-family: Satoshi Regular;
+      }
+
+      .css:nth-child(4) {
+          font-family: Satoshi Regular;
+      }
+
+      .css:nth-child(5) {
+          font-family: Satoshi Regular;
+      }
+
+      .css:nth-child(6) {
+          font-family: Satoshi Regular;
+      }
+
+      .css:nth-child(7) {
+          font-family: Satoshi Regular;
+      }
+
+      .css:nth-child(8) {
+          font-family: Satoshi Regular;
+      }
+
+      .css:nth-child(9) {
+          font-family: Satoshi Regular;
+      }
+
+      .css:nth-child(10) {
+          font-family: Satoshi Regular;
+      }
+
+      span.textbig {
+          color: #D9B08C;
+      }
+
+      /* text secondary */
+      .reply a:hover {
+          color: #ffffff;
+      }
+
+      cite.fn a:hover {
+          color: #ffffff;
+      }
+
+      time:hover {
+          color: #ffffff;
+      }
+
+      .counter-box h6:after {
+          color: #ffffff;
+          display: none;
+      }
+
+      p.footerp {
+          color: #2C3531;
+      }
+
+      .footer .footer-menu li a {
+          color: #fff;
+      }
+
+      .footer .footer-menu li:before {
+          background: #FFCB9A
+      }
+
+      /* service background */
+      .services1 {
+          background: transparent url() center center/cover no-repeat scroll;
+      }
+
+      /*
+responsive
+*/
+      @media only screen and (min-width: 1199px),
+      only screen and (max-width: 1199px) {
+          .iconk {
+              color: #dd2a1b;
+          }
+
+          .iconk:hover {
+              color: #000000;
+          }
+
+          .iconleft {
+              color: #116466;
+          }
+
+          .icon {
+              background: none;
+              color: #116466;
+          }
+
+          span.menu-service {
+              color: #FFCB9A;
+          }
+
+          .iconk {
+              color: #dd2a1b;
+          }
+
+          .iconk:hover {
+              color: #000000;
+          }
+
+          .iconleft {
+              color: #116466;
+          }
+      }
+
+      @media only screen and (min-width: 991px),
+      only screen and (max-width: 1180px) {
+          .iconk {
+              color: #dd2a1b;
+          }
+
+          .iconk:hover {
+              color: #000000;
+          }
+
+          .iconleft {
+              color: #116466;
+          }
+
+          .icon {
+              background: none;
+              color: #116466;
+          }
+
+          span.menu-service {
+              color: #FFCB9A;
+          }
+
+          .iconk {
+              color: #dd2a1b;
+          }
+
+          .iconk:hover {
+              color: #000000;
+          }
+
+          .iconleft {
+              color: #116466;
+          }
+      }
+
+      @media only screen and (min-width: 767px),
+      only screen and (max-width: 767px) {
+          .iconk {
+              color: #dd2a1b;
+          }
+
+          .iconk:hover {
+              color: #000000;
+          }
+
+          .iconleft {
+              color: #116466;
+          }
+
+          .icon {
+              background: none;
+              color: #116466;
+          }
+
+          span.menu-service {
+              color: #FFCB9A;
+          }
+
+          .iconk {
+              color: #dd2a1b;
+          }
+
+          .iconk:hover {
+              color: #000000;
+          }
+
+          .iconleft {
+              color: #116466;
+          }
+      }
+
+      @media (min-width: 820px) and (max-width: 820px) {
+          .iconk {
+              color: #dd2a1b;
+          }
+
+          .iconk:hover {
+              color: #000000;
+          }
+
+          .iconleft {
+              color: #116466;
+          }
+
+          .icon {
+              background: none;
+              color: #116466;
+          }
+
+          span.menu-service {
+              color: #FFCB9A;
+          }
+
+          .iconk {
+              color: #dd2a1b;
+          }
+
+          .iconk:hover {
+              color: #000000;
+          }
+
+          .iconleft {
+              color: #116466;
+          }
+      }
+
+      @media (min-width: 767px) and (max-width: 850px) {
+          .iconk {
+              color: #dd2a1b;
+          }
+
+          .iconk:hover {
+              color: #000000;
+          }
+
+          .iconleft {
+              color: #116466;
+          }
+
+          .icon {
+              background: none;
+              color: #116466;
+          }
+
+          span.menu-service {
+              color: #FFCB9A;
+          }
+
+          .iconk {
+              color: #dd2a1b;
+          }
+
+          .iconk:hover {
+              color: #000000;
+          }
+
+          .iconleft {
+              color: #116466;
+          }
+      }
+
+      @media (min-width: 1180px) and (max-width: 1200px) {
+          .iconk {
+              color: #dd2a1b;
+          }
+
+          .iconk:hover {
+              color: #000000;
+          }
+
+          .iconleft {
+              color: #116466;
+          }
+
+          .icon {
+              background: none;
+              color: #116466;
+          }
+
+          span.menu-service {
+              color: #FFCB9A;
+          }
+
+          .iconk {
+              color: #dd2a1b;
+          }
+
+          .iconk:hover {
+              color: #000000;
+          }
+
+          .iconleft {
+              color: #116466;
+          }
+      }
+
+      @media (min-width: 1000px) {
+          body {
+              background: #D1E8E2;
+              background-repeat: no-repeat;
+          }
+
+          body>.dg {
+              display: block;
+          }
+      }
+
+      @-webkit-keyframes color {
+          0% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          10% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          20% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          30% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          40% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          50% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          60% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          70% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          80% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          90% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          100% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+      }
+
+      @keyframes color {
+          0% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          10% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          20% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          30% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          40% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          50% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          60% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          70% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          80% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          90% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+
+          100% {
+              color: #000000;
+              -webkit-text-fill-color: #000000;
+              -webkit-text-stroke-width: 2px;
+              -webkit-text-stroke-color: #dd2a1b;
+          }
+      }
+
+      .planItem {
+          margin-bottom: 90px;
+          padding: 40px;
+      }
+
+      .planHeader {
+          text-transform: uppercase;
+          color: #000;
+          padding-bottom: 20px;
+          font-size: 24px;
+      }
+
+      .planPrec {
+          color: #D9B08C;
+          font-weight: 600;
+          font-size: 30px;
+      }
+
+      .planTerm,
+      .val,
+      .addVal,
+      #info_percent {
+          color: #D1E8E2;
+          font-size: 18px;
+      }
+
+      .pre {
+          color: #D1E8E2;
+          text-align: center;
+          font-size: 18px;
+      }
+
+      .sum {
+          color: #fff;
+          font-weight: 500;
+          font-size: 22px;
+      }
+
+      .planInfo {
+          text-align: center;
+          padding-top: 30px;
+          font-size: 15px;
+      }
+
+      .paySystem {
+          display: flex;
+          flex-direction: column;
+          max-width: 800px;
+      }
+
+      .menu-service.pay {
+          margin-bottom: 20px;
+      }
+
+      .serviceart.pay {
+          color: #fff;
+          display: flex;
+          align-items: center;
+      }
+
+      .ozellika {
+          padding-bottom: 10px;
+      }
+
+      .payIcon {
+          background: #2c3531;
+          margin-right: 20px;
+          padding: 10px 15px;
+          border-radius: 10px;
+          margin-left: 0;
+      }
+
+      .payIcon.trat {
+          padding: 10px 8px;
+      }
+
+      .payIcon.ccal {
+          padding: 10px 11px;
+      }
+
+      .payIcon.ccab {
+          padding: 13px 16px;
+      }
+
+
+      .cabStepSum {
+          /* background-color: #D1E8E2; */
+          max-width: 1400px;
+          padding: 50px;
+      }
+
+      .pre.inp {
+          font-size: 18px;
+      }
+
+      .inputLabel {
+          color: #D9B08C;
+          margin: 0;
+          font-weight: 600;
+          font-size: 24px;
+      }
+
+      .radioLabel {
+          position: relative;
+          font-size: 18px;
+          line-height: 24px;
+          color: #D9B08C;
+          font-weight: 400;
+          letter-spacing: .05em;
+          cursor: pointer;
+      }
+
+      .cabMoneyMoveResult,
+      .cabMoveDataItem {
+          padding-bottom: 10px;
+      }
+
+      #add_Sum {
+          margin-bottom: 10px;
+      }
+
+      .iconn.icon-profile {
+          font-size: 24px;
+      }
+
+      .tablo--1-ve-3.wow.cabinet {
+          padding-bottom: 20px !important;
+      }
+
+      .custom-button.wow.fadeInUp.cabinet {
+          display: inline !important;
+          padding: 10px 40px;
+      }
+
+      .crypto {
+          padding-bottom: 10px;
+          width: 48px;
+      }
+
+      .lastOperations {
+          margin-bottom: 40px;
+          margin-top: 40px;
+      }
+
+      .withd {
+          font-size: 24px;
+          color: #D9B08C;
+      }
+
+      .payItem {
+          display: flex;
+      }
+
+      .filters {
+          display: flex;
+      }
+
+      .operationItems {
+          display: flex;
+          flex-wrap: wrap;
+          margin: 0;
+          margin-bottom: 100px !important;
+      }
+
+      .partnersHeader {
+          color: #D1E8E2;
+          font-weight: 500;
+      }
+
+      .invited {
+          font-size: 20px;
+          color: #D1E8E2;
+          margin-top: 20px;
+      }
+
+      .iletisim-form-alani.settings {
+          /* padding-top: 10rem; */
+      }
+
+      .settingsHeader {
+          font-size: 24px;
+          color: #D9B08C;
+          text-align: center;
+          font-weight: 600;
+      }
+
+      .settingsHeader.sec {
+          padding-top: 60px;
+      }
+
+      .payIcon.settings {
+          margin-bottom: 10px;
+      }
+
+      .walletName {
+          color: #2c3531;
+          margin-bottom: 10px;
+      }
+
+      .logItems {
+          text-align: center;
+          display: flex;
+          gap: 30px;
+          justify-content: center;
+      }
+
+      .logItem {
+          text-align: center;
+          color: #D9B08C;
+          font-size: 18px;
+          margin: 0;
+      }
+
+      .logItem:hover {
+          color: #2c3531;
+      }
+
+      .iletisim-form-alani.register {
+          margin-top: -30vh;
+      }
+
+      @media (max-width: 901px) {
+          .iletisim-form-alani.register {
+              margin-top: -19vh !important;
+          }
+
+      }
