@@ -30,31 +30,34 @@
     // HAMBURGER MENU
     "use strict";
 
-    var main = function() {
-      $('.hamburger-menu').click(function() {
+    var main = function () {
+      $('.hamburger-menu').click(function () {
         $('.side-widget').animate({
-            left: "0px"}, 200,function() {
+          left: "0px"
+        }, 200, function () {
 
-                $(document).on("click.menu",function(event) {
-                    var target = $(event.target);   console.log(target);
-                    if (!target.closest(".side-widget").length || target.closest(".closed").length) {
-                        closeMenu(function() {
-                            $(document).off("click.menu");
-                        });
-                    }
-                })
+          $(document).on("click.menu", function (event) {
+            var target = $(event.target);
+            console.log(target);
+            if (!target.closest(".side-widget").length || target.closest(".closed").length) {
+              closeMenu(function () {
+                $(document).off("click.menu");
+              });
+            }
+          })
 
-            });
+        });
       });
 
 
 
-        function closeMenu(callback) {
-            $('.side-widget').animate({
-              left: "-100%"}, 200);
-              $('.hamburger-menu').show();
-           if ($.isFunction(callback)) callback();
-        }
+      function closeMenu(callback) {
+        $('.side-widget').animate({
+          left: "-100%"
+        }, 200);
+        $('.hamburger-menu').show();
+        if ($.isFunction(callback)) callback();
+      }
 
 
     };
@@ -131,7 +134,7 @@
       el: '.swiper-pagination',
       clickable: true,
     },
-	   breakpoints: {
+    breakpoints: {
       640: {
         slidesPerView: 1,
         spaceBetween: 15,
@@ -156,7 +159,7 @@
     effect: 'fade',
     opacity: 1,
     autoplay: {
-      delay:15000,
+      delay: 15000,
       disableOnInteraction: false,
     },
     navigation: {
